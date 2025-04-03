@@ -10,6 +10,7 @@ This folder contains:
 Data description: <br>
 <b>genetdata_PA_terr</b> is the dataset used for terrestrial analyses. <br>
 <b>genetdata_PA_mar</b> is the dataset used for marine analyses. See also Karachaliou et al. https://doi.org/10.1111/mec.17711 <br>
+<br>
 Column descriptions:
 - filename: name of associated genotype file
 - pop: unique sample site ID
