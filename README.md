@@ -1,5 +1,6 @@
 # Code and data associated with: A survey of mammal and fish genetic diversity across the global protected area network
-### Schmidt et al. Conservation Letters (accepted)
+### Schmidt et al. Conservation Letters (2025) 
+https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.13092
 
 This folder contains:
 - Scripts for data preparation and analysis are stored in order (1-4) for terrestrial and marine data.
@@ -8,6 +9,7 @@ This folder contains:
 
 Data description: <br>
 <b>genetdata_PA_terr</b> is the dataset used for terrestrial analyses. <br>
+<b>genetdata_PA_mar</b> is the dataset used for marine analyses. See also Karachaliou et al. https://doi.org/10.1111/mec.17711 <br>
 Column descriptions:
 - filename: name of associated genotype file
 - pop: unique sample site ID
